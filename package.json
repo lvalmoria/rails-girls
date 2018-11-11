@@ -1,7 +1,9 @@
 {
   "name": "railsgirls",
   "private": true,
-  "stack": "heroku-16",
   "dependencies": {}
 
+}
+{
+   "stack": "heroku-16"
 }
